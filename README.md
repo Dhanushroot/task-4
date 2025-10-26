@@ -53,17 +53,22 @@ To configure and test basic firewall rules using **Windows Defender Firewall**, 
 
 ## 🖼️ Screenshots
 
-1. **Inbound rules window**
-   ![Inbound rules window](screenshots/Screenshot 2025-10-26 124444.png)  
-2. **Rule creation wizard** (Port 23 blocked and Port 22 allowed)
-   **Port 23 blocked**
-   ![1.Port 23 blocked](screenshots/Screenshot 2025-10-26 124556.png)
-   ![2.Port 23 blocked](screenshots/Screenshot 2025-10-26 124606.png)
-   **Port 22 allowed**
-   ![1.Port 22 allowed](screenshots/Screenshot 2025-10-26 124824.png)
-   ![2.Port 22 allowed](screenshots/Screenshot 2025-10-26 124830.png)
-3. **Rule removal confirmation** 
-   ![Rule removal confirmation](screenshots/Screenshot 2025-10-26 124917.png)
+1. **Inbound rules window**  
+   ![Inbound rules window](screenshots/Screenshot_2025-10-26_124444.png)
+
+2. **Rule creation wizard (Port 23 blocked and Port 22 allowed)**  
+
+   **Port 23 blocked**  
+   ![1. Port 23 blocked](screenshots/Screenshot_2025-10-26_124556.png)  
+   ![2. Port 23 blocked](screenshots/Screenshot_2025-10-26_124606.png)  
+
+   **Port 22 allowed**  
+   ![1. Port 22 allowed](screenshots/Screenshot_2025-10-26_124824.png)  
+   ![2. Port 22 allowed](screenshots/Screenshot_2025-10-26_124830.png)
+
+3. **Rule removal confirmation**  
+   ![Rule removal confirmation](screenshots/Screenshot_2025-10-26_124917.png)
+
 ---
 
 ## 🧩 Key Learnings
