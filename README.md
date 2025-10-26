@@ -52,7 +52,7 @@ To configure and test basic firewall rules using **Windows Defender Firewall**, 
 ---
 
 ## 🖼️ Screenshots
-> (Add these screenshots to your repository)
+
 1. Inbound rules window  
 2. Rule creation wizard (Port 23 blocked and Port 22 allowed)  
 3. Telnet connection test result  
@@ -98,11 +98,6 @@ Network Address Translation hides internal IP addresses, making the network more
 
 ---
 
-## 📤 Submission
-After completing the task:
-1. Upload screenshots and this `README.md` to your **GitHub repository**.  
-2. Submit your repository link using this form:  
-   [Google Form Submission Link](https://forms.gle/8Gm83s53KbyXs3Ne9)
 
 ---
 
