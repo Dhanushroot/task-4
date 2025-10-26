@@ -53,11 +53,17 @@ To configure and test basic firewall rules using **Windows Defender Firewall**, 
 
 ## 🖼️ Screenshots
 
-1. Inbound rules window  
-2. Rule creation wizard (Port 23 blocked and Port 22 allowed)  
-3. Telnet connection test result  
-4. Rule removal confirmation  
-
+1. **Inbound rules window**
+   ![Inbound rules window](screenshots/Screenshot 2025-10-26 124444.png)  
+2. **Rule creation wizard** (Port 23 blocked and Port 22 allowed)
+   **Port 23 blocked**
+   ![1.Port 23 blocked](screenshots/Screenshot 2025-10-26 124556.png)
+   ![2.Port 23 blocked](screenshots/Screenshot 2025-10-26 124606.png)
+   **Port 22 allowed**
+   ![1.Port 22 allowed](screenshots/Screenshot 2025-10-26 124824.png)
+   ![2.Port 22 allowed](screenshots/Screenshot 2025-10-26 124830.png)
+3. **Rule removal confirmation** 
+   ![Rule removal confirmation](screenshots/Screenshot 2025-10-26 124917.png)
 ---
 
 ## 🧩 Key Learnings
@@ -97,8 +103,10 @@ It acts as a barrier between trusted and untrusted networks, filtering malicious
 Network Address Translation hides internal IP addresses, making the network more secure and efficient.
 
 ---
-
-
+### **Author**
+- **Cybersecurity Intern – Task 3** 
+- Your Name : DHANUSH S 
+- Date: 25 Oct 2025
 ---
 
 ### ✅ Outcome
